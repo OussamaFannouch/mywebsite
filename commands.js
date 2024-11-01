@@ -37,6 +37,10 @@ projects = [
   '<a href="https://github.com/OussamaFannouch/SniffMaster" target="_blank">SNIFFMASTER</a> - A Simple Network Sniffer',
   "SNIFFMASTER is a straightforward network sniffer designed by Fannouch Oussama (D1B). This tool captures and analyzes network packets, providing a command-line interface for filtering by IP address, port, HTTP requests, and TCP flags.",
   "<br>",
+  "<br>",
+  '<a href="https://github.com/OussamaFannouch/sobfisher" target="_blank">Sobfisher</a> - A script designed to simplify the process of setting up phishing websites',
+  "SOBFISHER is a simple phishing script  designed by Fannouch Oussama (D1B). This tool is designed to simplify the process of setting up phishing websites and hosting them using the Apache service.",
+  "<br>",
 ];
 
 
