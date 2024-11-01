@@ -56,6 +56,9 @@ function commander(cmd) {
     case "aboutme":
       loopLines(aboutme, "color2 margin", 80);
       break;
+    case "ls":
+      loopLines(ls, "color2 margin", 80);
+      break;
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
@@ -64,6 +67,11 @@ function commander(cmd) {
       setTimeout(function() {
         window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
       }, 1000); 
+      break;
+    case "cat secret.txt":
+      addLine("Within an image my lovely friend Thewolfcs shared, a secret awaits discovery, carefully concealed. To unveil the hidden message, you","color2", 80)
+      addLine("might want to explore tools designed for extracting whispers from shadows. A useful companion for this task is known to reveal","color2", 80)
+      addLine("what lies beneath the surface. Good luck on your quest!", "color2", 80);
       break;
     case "social":
       loopLines(social, "color2 margin", 80);

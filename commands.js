@@ -18,6 +18,12 @@ whoami = [
   "<br>"
 ];
 
+ls = [
+  "<br>",
+  "-rw-rw-r--  1 d1b d1b 6629 Oct 30 17:57 secret.txt",
+  "<br>"
+];
+
 social = [
   "<br>",
   'twitter        <a href="' + "https://x.com/CobraFannouch" + '" target="_blank">twitter/CobraFannouch' + '</a>',
@@ -54,6 +60,8 @@ help = [
   '<span class="command">history</span>        View command history',
   '<span class="command">help</span>           It\'s self-explanatory; do you need it spelled out?',
   '<span class="command">email</span>          Email me only if you want to hire me :D',
+  '<span class="command">ls</span>             list files',
+  '<span class="command">cat</span>            read file',
   '<span class="command">clear</span>          Clear terminal',
   "<br>",
 ];
