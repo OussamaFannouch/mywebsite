@@ -9,6 +9,7 @@ aboutme = [
 "<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/7d00c069-462e-4192-a3ae-089fa0056b66/linked_in_profile' target='_blank'>Google Cybersecurity Certificate.</a></span>",
 "<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/3c7beda3-547a-4504-8b21-d55da6a983f7/linked_in_profile' target='_blank'>Fortinet Certified Fundamentals Cybersecurity</a></span>",
 "<span style='color: #F5F7F8;'>- <a href='https://drive.google.com/file/d/1DdPCtwdGiRF2bwDoNNUITG_aRgZPHVwn/view?usp=sharing' target='_blank'>Practical Ethical Hacking</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://pdf.credential.net/2qilo8qy_1731188520525_ce87d3a77fcd0eff4640a13d74a4f0162b90f9c9f670d2614ca45ee3ae1ed440.pdf' target='_blank'>Practical Junior Penetration Tester</a></span>",
   "<br>"
 ];
 
