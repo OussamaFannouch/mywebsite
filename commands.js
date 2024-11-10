@@ -12,6 +12,17 @@ aboutme = [
 "<span style='color: #F5F7F8;'>- <a href='https://pdf.credential.net/2qilo8qy_1731188520525_ce87d3a77fcd0eff4640a13d74a4f0162b90f9c9f670d2614ca45ee3ae1ed440.pdf' target='_blank'>Practical Junior Penetration Tester</a></span>",
   "<br>"
 ];
+certifs = [
+  "<br>",
+"<span style='color: #F5F7F8;'>Certifications:</span>",
+"<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/00630b53-be01-4fb7-bb4a-75b084e835eb/linked_in_profile' target='_blank'>CCNA: Switching, Routing, and Wireless Essentials</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/0e58cdd8-45c0-44d7-bbd7-155cd8306d3d/linked_in_profile' target='_blank'>CyberOps Associate</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/7d00c069-462e-4192-a3ae-089fa0056b66/linked_in_profile' target='_blank'>Google Cybersecurity Certificate.</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://www.credly.com/badges/3c7beda3-547a-4504-8b21-d55da6a983f7/linked_in_profile' target='_blank'>Fortinet Certified Fundamentals Cybersecurity</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://drive.google.com/file/d/1DdPCtwdGiRF2bwDoNNUITG_aRgZPHVwn/view?usp=sharing' target='_blank'>Practical Ethical Hacking</a></span>",
+"<span style='color: #F5F7F8;'>- <a href='https://pdf.credential.net/2qilo8qy_1731188520525_ce87d3a77fcd0eff4640a13d74a4f0162b90f9c9f670d2614ca45ee3ae1ed440.pdf' target='_blank'>Practical Junior Penetration Tester</a></span>",
+  "<br>"
+];
 
 whoami = [
   "<br>",
@@ -54,6 +65,7 @@ projects = [
 help = [
   "<br>",
   '<span class="command">aboutme</span>        Who is Oussama Fannouch?',
+  '<span class="command">certifs</span>        My Certificates',
   '<span class="command">whoami</span>         Who am i?',
   '<span class="command">sudo su</span>        Are you a wolf?',
   '<span class="command">social</span>         Display social networks',
