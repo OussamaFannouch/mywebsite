@@ -53,9 +53,6 @@ function commander(cmd) {
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
-    case "aboutme":
-      loopLines(aboutme, "color2 margin", 80);
-      break;
     case "certifs":
       loopLines(certifs, "color2 margin", 80);
       break;
